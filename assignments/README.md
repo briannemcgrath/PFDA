@@ -4,7 +4,7 @@ This repository contains code and resources related to the assignments carried o
 
 ## Table of Contents: 
 
-- [Week Two Task - Weather Data Anlysis](assignment02-weather.ipynb/)
+- [Week Two Task - Weather Data Analysis](assignment02-weather.ipynb/)
 - [Week Three Task - Email Domain](assignment03-pie.ipynb/)
 
 ### Week Two Task:
