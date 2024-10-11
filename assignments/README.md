@@ -4,8 +4,8 @@ This repository contains code and resources related to the assignments carried o
 
 ## Table of Contents: 
 
-- [Week Two Task](assignment02-weather.ipynb/)
-- [Week Three Task](assignment03-pie.ipynb/)
+- [Week Two Task - Weather Data Anlysis](assignment02-weather.ipynb/)
+- [Week Three Task - Email Domain](assignment03-pie.ipynb/)
 
 ### Week Two Task:
 Assignment Brief - Create a jupyter notebook that has a nice plot of the temperature of over time using the weatherreadings1.csv file. 
