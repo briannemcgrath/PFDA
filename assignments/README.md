@@ -1,5 +1,12 @@
 # Programming for Data Analytics Assignment Repository 
 
+This repository contains code and resources related to the assignments carried out for the Programming for Data Analytics module. 
+
+## Table of Contents: 
+
+- [Week Two Task](assignment02-weather/)
+- [Week Three Task](assignment03-pie/)
+
 ### Week Two Task:
 Assignment Brief - Create a jupyter notebook that has a nice plot of the temperature of over time using the weatherreadings1.csv file. 
 
