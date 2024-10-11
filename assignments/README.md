@@ -13,7 +13,7 @@ Assignment Brief - Create a jupyter notebook that has a nice plot of the tempera
 ### Week Three Task:
 Assignment Brief - Create a jupyter notebook that has a nice pie chart of peoples email domains using the people-1000.csv file. 
 
-### References:
+## References:
 
 **Week 2:** 
 - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html (Min Temp Calculations)
