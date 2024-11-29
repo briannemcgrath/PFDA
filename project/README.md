@@ -36,6 +36,10 @@ Before running the code, ensure you have the following:
 
 ## References: 
 
+### **Visualisation:**
+- https://seaborn.pydata.org/generated/seaborn.kdeplot.html (kdeplot - Kernel Density Plot for Login Attempts)
+- https://www.statology.org/pandas-value_counts-sort/ (Sorting results of value_counts(). Used for visualisation in  Frequency of Login Attempts)
+
 ## Acknowledgements: 
 This repository was developed as part of coursework for the Higher Diploma in Science in Computing in Data Analytics with Atlantic Technological University. Special thanks to lecturer Andrew Beatty for guidance and support. 
 
