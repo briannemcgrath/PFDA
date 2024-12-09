@@ -34,11 +34,19 @@ Before running the code, ensure you have the following:
     - `sqlite3`
 - Clone this repository and run the Jupyer notebook files to see the analysis and machine learning in action.
 
-## References: 
+## **References:**
 
 ### **Visualisation:**
-- https://seaborn.pydata.org/generated/seaborn.kdeplot.html (kdeplot - Kernel Density Plot for Login Attempts)
-- https://www.statology.org/pandas-value_counts-sort/ (Sorting results of value_counts(). Used for visualisation in  Frequency of Login Attempts)
+- https://matplotlib.org/stable/gallery/lines_bars_and_markers/bar_stacked.html (Stacked Bar Charts)
+- https://seaborn.pydata.org/generated/seaborn.barplot.html (Bar Plots)
+
+### **Pandas:**
+- https://www.slingacademy.com/article/pandas-dataframe-grouping-rows-by-day-of-the-week/ (Grouping Rows by Day of the Week)
+- https://www.statology.org/pandas-group-by-hour/ (Grouping Data by Hour)
+
+### **Interquartile Range (IQR):**
+- https://en.wikipedia.org/wiki/Interquartile_range (Overview)
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.quantile.html (IQR in pandas)
 
 ## Acknowledgements: 
 This repository was developed as part of coursework for the Higher Diploma in Science in Computing in Data Analytics with Atlantic Technological University. Special thanks to lecturer Andrew Beatty for guidance and support. 
