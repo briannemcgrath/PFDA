@@ -52,5 +52,8 @@ Assignment Brief - This assignment plots the following from weather readings in 
 - https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html (Datetime)
 - https://stackoverflow.com/questions/52633719/syntax-to-use-df-apply-with-datetime-strptime (Converting String to Date)
 - https://www.geeksforgeeks.org/python-pandas-dataframe-rolling/ (Rolling Averages)
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.resample.html (Pandas Resampling)
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.max.html (Pandas Max)
+- https://stackoverflow.com/questions/24251219/pandas-read-csv-low-memory-and-dtype-options (Troubleshooting for error when loading data set)
 
 **by Brianne McGrath**
