@@ -3,11 +3,11 @@
 This repository contains code and resoruces related to project carried out for the Programming for Data Analytics module. 
 
 ## Project Overview: 
-This project aims to demonstrated my skills in data analysis based on my learnings in the module through the analysis of a [bank transaction dataset](https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection/data). The dataset includes transaction records and customer details, with the goal of identifying patterns that can potentially indicate fraudulent behaviour. 
+This project aims to demonstrate my skills in data analysis, showcasing techniques and tools I've learned thoughout the module. The analysis is based on a [bank transaction dataset](https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection/data) which includes transaction records and customer details. The main goal of this project is to identify patterns that may indicate potentially fraudulent behaviour. 
 
 ## Dataset Overview: 
 
-The dataset, linked about, contains the following features: 
+The dataset, linked above, contains the following features: 
 - **TransactionID:** Unique identifier for each transaction.
 - **AccountID:** Unique identifier for the customer's account. 
 - **TransactionAmount:** Amount ($) involved in the transaction. 
@@ -26,13 +26,15 @@ The dataset, linked about, contains the following features:
 Before running the code, ensure you have the following: 
 - Python 
 - Required libraries: 
-    - `pandas`
-    - `numpy`
+    - `pandas` 
+    - `numpy` 
     - `matplotlib`
     - `seaborn`
     - `skikit-learn`
-    - `sqlite3`
-- Clone this repository and run the Jupyer notebook files to see the analysis and machine learning in action.
+    - `sqlite3`(Built-in with Python)
+- Clone this repository and run the Jupyter Notebook `project.ipynb`. 
+
+The notebook contains information on loading the dataset, performing exploratory data analysis, applying machine learning models for anomaly detection, and storing anomalies in an SQLite database for querying. 
 
 ## **References:**
 
@@ -47,6 +49,10 @@ Before running the code, ensure you have the following:
 ### **Interquartile Range (IQR):**
 - https://en.wikipedia.org/wiki/Interquartile_range (Overview)
 - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.quantile.html (IQR in pandas)
+
+## **Future Work:**
+- **Lack of Labeled Fraud Data:** The model currently uses unsupervised anomaly detection techniques (due to lack of labels in the original dataset). Future work could involve incorporating labeld fraud data to train a predictive model. 
+- **Feature enhancement**: Further exploration of additional features could improve the detection of fraudulent transactions.
 
 ## Acknowledgements: 
 This repository was developed as part of coursework for the Higher Diploma in Science in Computing in Data Analytics with Atlantic Technological University. Special thanks to lecturer Andrew Beatty for guidance and support. 
